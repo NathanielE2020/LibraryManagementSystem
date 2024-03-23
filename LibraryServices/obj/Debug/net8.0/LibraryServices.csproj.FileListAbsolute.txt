@@ -1,0 +1,15 @@
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\bin\Debug\net8.0\LibraryServices.deps.json
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\bin\Debug\net8.0\LibraryServices.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\bin\Debug\net8.0\LibraryServices.pdb
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\bin\Debug\net8.0\LibraryData.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\bin\Debug\net8.0\LibraryData.pdb
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.csproj.AssemblyReference.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.AssemblyInfoInputs.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.AssemblyInfo.cs
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.csproj.CoreCompileInputs.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.csproj.CopyComplete
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\refint\LibraryServices.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\LibraryServices.pdb
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryServices\obj\Debug\net8.0\ref\LibraryServices.dll

@@ -1,0 +1,14 @@
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\bin\Debug\net8.0\LibraryData.deps.json
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\bin\Debug\net8.0\LibraryData.runtimeconfig.json
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\bin\Debug\net8.0\LibraryData.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\bin\Debug\net8.0\LibraryData.pdb
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.csproj.AssemblyReference.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.AssemblyInfoInputs.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.AssemblyInfo.cs
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.csproj.CoreCompileInputs.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\refint\LibraryData.dll
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.pdb
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\LibraryData.genruntimeconfig.cache
+E:\LIBRARY\Projects\C#\LibraryManagement\LibraryData\obj\Debug\net8.0\ref\LibraryData.dll
